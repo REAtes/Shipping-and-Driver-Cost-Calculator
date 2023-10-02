@@ -1,4 +1,4 @@
-# Nile Shipping and Driver Cost Calculator
+# Shipping and Driver Cost Calculator
 
 This Python project includes functions for calculating shipping costs, driver costs, and money earned from trips using the Nile service.
 
