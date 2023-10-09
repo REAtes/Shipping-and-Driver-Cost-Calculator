@@ -2,16 +2,6 @@
 
 This Python project includes functions for calculating shipping costs, driver costs, and money earned from trips using the Nile service.
 
-## Contents
-- [Project Structure](#project-structure)
-- [How to Use](#how-to-use)
-- [Functions](#functions)
-  - [calculate_shipping_cost](#calculate_shipping_cost)
-  - [calculate_driver_cost](#calculate_driver_cost)
-  - [calculate_money_made](#calculate_money_made)
-- [Testing](#testing)
-- [Credits](#credits)
-
 ## Project Structure
 
 - **script.py**: This file contains the main functions for calculating shipping and driver costs, as well as money made from trips.
